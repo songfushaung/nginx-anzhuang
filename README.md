@@ -66,3 +66,4 @@ cd /usr/local/nginx/sbin
 方式2，重新加载配置文件：
 当nginx的配置文件nginx.conf修改后，要想让配置生效需要重启nginx，使用-s reload不用先停止nginx再启动nginx即可将配置信息在nginx中生效，如下：
 ./nginx -s reload
+https://www.cnblogs.com/jimisun/p/8057156.html
